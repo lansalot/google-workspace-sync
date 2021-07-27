@@ -4,7 +4,7 @@
     <id>google-workspace-sync</id>
     <version>4.3.49.0</version>
     <title>Google Workspace Sync for Microsoft Outlook® (GWSMO) (Install)</title>
-    <authors>Google</authors>
+    <authors>Google</authors> 
     <owners>lansalot</owners>
     <licenseUrl>https://workspace.google.com/terms/premier_terms.html</licenseUrl>
     <projectUrl>https://tools.google.com/dlpage/gssmo</projectUrl>
