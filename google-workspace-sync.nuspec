@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>google-workspace-sync</id>
+    <version>4.3.49.0</version>
+    <title>Google Workspace Sync for Microsoft Outlook® (GWSMO) (Install)</title>
+    <authors>Google</authors>
+    <owners>lansalot</owners>
+    <licenseUrl>https://workspace.google.com/terms/premier_terms.html</licenseUrl>
+    <projectUrl>https://tools.google.com/dlpage/gssmo</projectUrl>
+    <packageSourceUrl>https://github.com/lansalot/google-workspace-sync</packageSourceUrl>
+    <iconUrl>https://4.bp.blogspot.com/-Pp8TROoyTwc/VeXXFhKQwWI/AAAAAAAACPo/b2g71CJ_Hj8/s1600/inline-googles-new-logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>---
+
+### [choco://google-workspace-sync](choco://google-workspace-sync)
+To use choco:// protocol URLs, install [(unofficial) choco:// Protocol support ](https://chocolatey.org/packages/choco-protocol-support)
+
+---
+
+## What is GWSMO?
+
+If your organization has switched to a Google Account but you'd like to keep using Microsoft Outlook, you can use GWSMO. GWSMO is a plugin that synchronizes your mail, calendar events, contacts, notes, and tasks between your new Google Account and Outlook.
+
+
+#### System requirements: 
+* Requires G Suite, G Suite for Education, or G Suite for Government
+* Windows Vista (32 bit) SP1 
+* Windows Vista (64 bit) SP1 
+* Windows 7 (32 and 64 bit) 
+* Windows 8 (32 and 64 bit) 
+* Windows 10 (32 and 64 bit)
+* Microsoft Outlook 2003® SP3 
+* Microsoft Outlook 2007® SP2 (or SP1 with hotfix) 
+* Microsoft Outlook 2010® (32 and 64 bit) 
+* Microsoft Outlook 2013® (32 and 64 bit) 
+* Microsoft Outlook 2016® (32 and 64 bit)	
+* Microsoft Outlook 2019® (32 and 64 bit)	
+---</description>
+    <summary>GWSMO - a tool to migrate your Outlook data to G Suite.</summary>
+    <releaseNotes>https://support.google.com/a/answer/153463</releaseNotes>
+    <copyright>Google</copyright>
+    <tags>google gwsmo gssmo gsuite gapps migration sync outlook</tags>
+    <docsUrl>https://support.google.com/a/answer/150403</docsUrl>
+    <mailingListUrl>https://productforums.google.com/forum/#!forum/apps</mailingListUrl>
+    <bugTrackerUrl>https://support.google.com/a/answer/153463</bugTrackerUrl>
+  </metadata>
+</package>
