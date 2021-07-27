@@ -45,4 +45,7 @@ If your organization has switched to a Google Account but you'd like to keep usi
     <mailingListUrl>https://productforums.google.com/forum/#!forum/apps</mailingListUrl>
     <bugTrackerUrl>https://support.google.com/a/answer/153463</bugTrackerUrl>
   </metadata>
+    <files>
+      <file src="tools\*" target="tools" />
+    </files>
 </package>
